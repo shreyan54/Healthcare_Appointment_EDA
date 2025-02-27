@@ -7,11 +7,11 @@ This project focuses on analyzing a healthcare dataset related to patient appoin
 ### Dataset Description
 
 The dataset contains patient appointment records with features such as:
-  - Patient ID: Unique identifier for each patient.
-  - Appointment Details: Information on scheduled appointments.
-  - Gender: Patient gender.
-  - Attendance Status: Classification of whether a patient attended their appointment or not.
-  - Appointment Scheduling: Analysis of trends based on weekdays.
+  - *Patient ID*: Unique identifier for each patient.
+  - *Appointment Details*: Information on scheduled appointments.
+  - *Gender*: Patient gender.
+  - *Attendance Status*: Classification of whether a patient attended their appointment or not.
+  - *Appointment Scheduling*: Analysis of trends based on weekdays.
 
 Project Components
 
